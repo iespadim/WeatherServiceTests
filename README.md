@@ -1,8 +1,3 @@
-
-#applyMet
-
-for dell team
-
 ##how to run:
 
 using gradle: cleanTest :test--tests "tests.services.WeatherService_getTemps"
